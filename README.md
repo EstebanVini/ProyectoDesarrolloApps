@@ -63,15 +63,15 @@ Diseño general de la aplicación:
 
 ![alt_text](images/image2.jpg "image_tooltip")
 
-<img src="images/image3.jpg" alt="alt_text" width="200px">
+<div style="display: flex;">
+    <img src="images/image2.jpg" alt="alt_text" style="width: 200px;">
+    <img src="images/image3.jpg" alt="alt_text" style="width: 200px;">
+    <img src="images/image4.jpg" alt="alt_text" style="width: 200px;">
+    <img src="images/image5.jpg" alt="alt_text" style="width: 200px;">
+    <img src="images/image6.jpg" alt="alt_text" style="width: 200px;">
+    <img src="images/image7.jpg" alt="alt_text" style="width: 200px;">
+</div>
 
-![alt_text](images/image4.jpg "image_tooltip")
-
-![alt_text](images/image5.jpg "image_tooltip")
-
-![alt_text](images/image6.jpg "image_tooltip")
-
-![alt_text](images/image7.jpg "image_tooltip")
 
 
 Casos de uso:
