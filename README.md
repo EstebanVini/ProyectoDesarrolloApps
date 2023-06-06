@@ -64,7 +64,6 @@ Diseño general de la aplicación:
 ![alt_text](images/image2.jpg "image_tooltip")
 
 <div style="display: flex;">
-    <img src="images/image2.jpg" alt="alt_text" style="width: 200px;">
     <img src="images/image3.jpg" alt="alt_text" style="width: 200px;">
     <img src="images/image4.jpg" alt="alt_text" style="width: 200px;">
     <img src="images/image5.jpg" alt="alt_text" style="width: 200px;">
