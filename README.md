@@ -63,7 +63,7 @@ Diseño general de la aplicación:
 
 ![alt_text](images/image2.jpg "image_tooltip")
 
-![alt_text](images/image3.jpg "image_tooltip")
+<img src="images/image3.jpg" alt="alt_text" width="200px">
 
 ![alt_text](images/image4.jpg "image_tooltip")
 
