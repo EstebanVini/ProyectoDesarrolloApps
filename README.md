@@ -10,11 +10,11 @@
 
  **Proyecto final**
 
-2023
+**2023**
 
-FACULTAD DE INGENIERÍA
+**FACULTAD DE INGENIERÍA**
 
-Desarrollo de aplicaciones para dispositivos inteligentes
+**Desarrollo de aplicaciones para dispositivos inteligentes**
 
   
 
