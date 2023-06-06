@@ -1,4 +1,4 @@
-# ProyectoDesarrolloApps
+# Proyecto Final Desarrollo de Apps Móviles
 
 
 ![alt_text](images/image1.png "image_tooltip")
@@ -62,6 +62,16 @@ Diseño general de la aplicación:
 
 
 ![alt_text](images/image2.jpg "image_tooltip")
+
+![alt_text](images/image3.jpg "image_tooltip")
+
+![alt_text](images/image4.jpg "image_tooltip")
+
+![alt_text](images/image5.jpg "image_tooltip")
+
+![alt_text](images/image6.jpg "image_tooltip")
+
+![alt_text](images/image7.jpg "image_tooltip")
 
 
 Casos de uso:
